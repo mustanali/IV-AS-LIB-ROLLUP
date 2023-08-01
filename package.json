@@ -1,5 +1,5 @@
 {
-  "name": "mustanali/IV-AS-LIB-ROLLUP",
+  "name": "@mustanali/IV-AS-LIB-ROLLUP",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/IV-AS-LIB-ROLLUP"
   },
